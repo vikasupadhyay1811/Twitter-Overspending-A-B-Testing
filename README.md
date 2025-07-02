@@ -3,9 +3,13 @@ How can Twitter effectively reduce overspending in ad campaigns, given the delay
 
 📂 Dataset Description
 The dataset contains 15,474 advertising campaigns with the following key features:
+
 treatment: Billing model (True = Impression-based, False = Click-based)
+
 company_size: Size of the advertiser (small, medium, large)
+
 campaign_spend: Total amount spent on the campaign
+
 campaign_budget: Budget allocated for the campaign
 
 🛠️ Methodology
